@@ -1,7 +1,5 @@
 # study-of-SETs-and-Dictionary-
 
-# Study-of-tuple
-
 Name : Aanjneya Pankharaj
 
 PRN : 25070123002
